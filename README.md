@@ -8,10 +8,10 @@ Determining Optimal Movie Criteria
 
 ### Authors
 
-Dhruv Jagannath (dhruvj20@uw.edu)
-Vy Nguyen (nvy24@uw.edu)
-Pagna Keo (pagnakeo@uw.edu)
-Hao Zhu (zh1117@uw.edu)
+- Dhruv Jagannath (dhruvj20@uw.edu)
+- Vy Nguyen (nvy24@uw.edu)
+- Pagna Keo (pagnakeo@uw.edu)
+- Hao Zhu (zh1117@uw.edu)
 
 ### Date
 
